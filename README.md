@@ -3,11 +3,14 @@
 <h1>Nepali Calendar</h1>
 <p>
 </p>
-<p>Simple app for Mi Band 7 that shows current date in Nepali BS Calendar</p>
+<p>Simple app for Mi Band 7 that shows the current date in Nepali BS Calendar</p>
 </div>
 
 # Installation
 Follow the guide from this link https://mmk.pw/en/posts/sb7-install-guide/
+
+# Screenshots
+
 
 # Credits
 - AD to BS Conversion JS Code from https://github.com/sharmadhiraj/live-nepali-date-time-javascript
