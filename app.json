@@ -1,0 +1,82 @@
+{
+    "configVersion": "v2",
+    "app": {
+      "appIdType": 0,
+      "appType": "app",
+      "version": {
+        "code": 1,
+        "name": "1.0.0"
+      },
+      "appId": 100001,
+      "appName": "Nepali Calendar",
+      "icon": "icon.png",
+      "vender": "uppi1412",
+      "description": "Shows Nepali BS Date"
+    },
+    "runtime": {
+      "apiVersion": {
+        "compatible": "1.0.0",
+        "target": "1.0.1",
+        "minVersion": "1.0.0"
+      }
+    },
+    "i18n": {
+      "en-US": {
+        "name": "Nepali Calendar"
+      }
+    },
+    "defaultLanguage": "np-ENG",
+    "debug": false,
+    "module": {
+      "page": {
+        "pages": [
+          "page/192x490_s_l66/index.page"
+        ],
+        "window": {
+          "navigationBarBackgroundColor": "#ffffff",
+          "navigationBarTextStyle": "black",
+          "navigationBarTitleText": "",
+          "backgroundColor": "#eeeeee",
+          "backgroundTextStyle": "light"
+        }
+      }
+    },
+
+    "platforms": [
+        {
+          "name": "l66",
+          "deviceSource": 260
+        },
+        {
+          "name": "l66w",
+          "deviceSource": 261
+        },
+        {
+          "name": "l66_1",
+          "deviceSource": 262
+        },
+        {
+          "name": "l66w_2",
+          "deviceSource": 263
+        },
+        {
+          "name": "l66_3",
+          "deviceSource": 264
+        },
+        {
+          "name": "l66_4",
+          "deviceSource": 265
+        },
+        {
+          "name": "l66_5",
+          "deviceSource": 266
+        }
+      ],
+      "designWidth": 192,
+      "packageInfo": {
+        "mode": "production",
+        "timeStamp": 1648534836,
+        "expiredTime": 172800,
+        "zpm": "2.1.49"
+      }
+  }
