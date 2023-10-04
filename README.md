@@ -10,5 +10,5 @@
 Follow the guide from this link https://mmk.pw/en/posts/sb7-install-guide/
 
 # Credits
-AD to BS Conversion JS Code from https://github.com/sharmadhiraj/live-nepali-date-time-javascript
-App Template from https://www.bandbbs.cn/threads/4250/
+- AD to BS Conversion JS Code from https://github.com/sharmadhiraj/live-nepali-date-time-javascript
+- App Template from https://www.bandbbs.cn/threads/4250/
