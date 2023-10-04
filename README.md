@@ -6,8 +6,10 @@
 <p>Simple app for Mi Band 7 that shows the current date in Nepali BS Calendar</p>
 </div>
 <p align="center" textalign="center">
-<img alt="Home page of the application" src="https://github.com/833M0L3/MiBand7NepaliCalendar/assets/59522309/1c95e906-00be-4c98-8793-22b352dc9d58" width="100">
+<img alt="Home page of the application" src="https://github.com/833M0L3/MiBand7NepaliCalendar/assets/59522309/a0ad1d38-788e-4648-9721-e056dd85a19c" width="100">
+  <img alt="Home page of the application" src="https://github.com/833M0L3/MiBand7NepaliCalendar/assets/59522309/2e57a97e-7e3d-4703-ab21-abff77f400f3" width="100">
 </p>
+
 
 # Installation
 Follow the guide from this link https://mmk.pw/en/posts/sb7-install-guide/
