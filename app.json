@@ -30,7 +30,8 @@
     "module": {
       "page": {
         "pages": [
-          "page/192x490_s_l66/index.page"
+          "page/192x490_s_l66/index.page",
+          "page/192x490_s_l66/index.page2"
         ],
         "window": {
           "navigationBarBackgroundColor": "#ffffff",
